@@ -1,3 +1,3 @@
 # Primeiro exercicio fazendo o push ao GitHub
 
-## Me chamo Juliano e estou aprendendo a utilizar o GitHub. 
+## Esse projeto foi desenvolvido durante o curso de Git e GitHub. 
